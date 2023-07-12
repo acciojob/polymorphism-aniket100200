@@ -4,7 +4,7 @@ import com.sun.nio.sctp.SctpSocketOption;
 
 public class Main
 {
-    static class Product{
+   public static class Product{
         public Product(){}
         public int product(int x,int y)
         {
